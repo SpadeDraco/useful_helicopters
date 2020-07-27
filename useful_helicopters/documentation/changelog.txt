@@ -10,3 +10,4 @@ Version 0.2
 Version 0.3
 -Removed aero_engine_light from cumbustion.json
 -It wasn't altered in any way by the mod and it's inclusion was not necessary.
+-This should cause the mod to stop throwing an error when applied to version 10614 where the light aero engine doesn't exist.
