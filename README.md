@@ -5,10 +5,6 @@ Welcome to my helicopter mod! A few things you need to know:
 
 Rotors are not craftable. You'll need to salveage them from crashed\working helicopters still.
 
-Helicopters can't be flown with non-turbine engines right now. This is a hardcode limitation.
-I have allowed non-turbine engines to be installable so you can use them for utility purposes like charging a battery if you wish.
-You will have to remove non-turbine engines before flying.
-
 Vehicle weight determines the number\size of turbine engines required for liftoff.
 
 Turbine engines currently accept nearly every type of fuel. This is how they are configured in vanilla and I haven't gotten around to changing it yet.
