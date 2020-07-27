@@ -5,7 +5,7 @@ Welcome to my helicopter mod! A few things you need to know:
 
 Rotors are not craftable. You'll need to salveage them from crashed\working helicopters still.
 
-Vehicle weight determines the number\size of turbine engines required for liftoff.
+Vehicle weight determines the number\size of engines required for liftoff.
 
 Turbine engines currently accept nearly every type of fuel. This is how they are configured in vanilla and I haven't gotten around to changing it yet.
 I will likely narrow the fuel types down in the future.
