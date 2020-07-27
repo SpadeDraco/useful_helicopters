@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "useful_helicopters",
+    "name": "Useful Helicopters",
+    "authors": [ "SpadeDraco" ],
+    "description": "Helicopters can be built\modded and fly for more than 25 minutes.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]

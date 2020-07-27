@@ -1,0 +1,8 @@
+Version 0.1
+
+-Reduced turbine engine fuel consumption by 5x (helicopters can now be flown for several hours instead of twenty minutes)
+
+Version 0.2
+
+-Made rotors able to be added to non-helicopters
+-Added ROTOR_SIMPLE to all rotors allowing all flying vehicles to be modified and retain FLYABLE boolean
