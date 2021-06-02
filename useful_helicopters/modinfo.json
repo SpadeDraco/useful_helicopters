@@ -4,7 +4,7 @@
     "ident": "useful_helicopters",
     "name": "Useful Helicopters",
     "authors": [ "SpadeDraco" ],
-    "description": "Helicopters can be built, modified and fly for more than 25 minutes.",
+    "description": "Balance adjustment to helicopters with the goal of making them more viable.",
     "category": "rebalance",
     "dependencies": [ "dda" ]
   }
