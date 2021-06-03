@@ -3,7 +3,7 @@
     "id": "uh_pilot_package_cbm",
     "type": "bionic",
     "name": { "str": "Pilot Package CBM" },
-    "description": "A compact bionic module designed by the military to train pilots.",
+    "description": "A compact bionic module developed by the military to train pilots.",
     "occupied_bodyparts": [ [ "head", 2 ] ],
     "learned_proficiencies": [ "prof_helicopter_pilot", "prof_aircraft_mechanic" ]
   }
