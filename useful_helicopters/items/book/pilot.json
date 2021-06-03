@@ -12,13 +12,14 @@
     "material": [ "paper" ],
     "symbol": "?",
     "color": "blue",
-    "skill": "Driving",
+    "skill": "driving",
     "required_level": 4,
     "max_level": 7,
     "proficiencies": [
       { "proficiency": "prof_helicopter_pilot", "time_factor": 0.9, "fail_factor": 0.6, "include_prereqs": false },
       { "proficiency": "prof_aircraft_mechanic", "time_factor": 0.9, "fail_factor": 0.7, "include_prereqs": false }
+    ],
     "intelligence": 8,
     "time": "30 m"
-  },
+  }
 ]
