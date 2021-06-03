@@ -1,4 +1,4 @@
-# useable_helicopters
+# useful_helicopters
 A Cataclysm DDA mod that rebalances helicopters to make them more practical.
 
 Welcome to my helicopter mod! A few things you need to know:
