@@ -1,5 +1,5 @@
 # useable_helicopters
-A Cataclysm DDA mod that makes helicopters fully craftable\modifiable.
+A Cataclysm DDA mod that rebalances helicopters to make them more practical.
 
 Welcome to my helicopter mod! A few things you need to know:
 
@@ -23,4 +23,3 @@ This diameter is:
 11 for osprey
 
 E.G for the Heavy Duty Military Rotor the rotors will stick out 7 tiles in each direction from the tile the rotor is installed on.
-I plan on pestering SomeDeadGuy to add a graphic to show this in his tileset. If he's unable\unwilling I'll probably do it myself.
