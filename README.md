@@ -14,16 +14,16 @@ Currently does the following things:
 -Makes the "Helicopter Pilot" and "Airframe and Powerplant Mechanic" proficiencies learnable via crafting. (Unfinished. No recipes teach them yet.)
 
 Limitations:
--messing with rotors before you acquire the "A&P Mechanic" trait will still result in a permanent loss of airworthiness. After the proficiency is aqcuired you can slap rotors on literally anything and so long as the engine is strong enough it'll fly.
--you still need the pilot trait (via profession or the included CBM) to fly
--These are hardcode limitations. I can't do anything about them. Sorry.
+Messing with rotors before you acquire the "A&P Mechanic" trait will still result in a permanent loss of airworthiness. After the proficiency is aqcuired you can slap rotors on literally anything and so long as the engine is strong enough it'll fly.
+You still need the pilot trait (via profession or the included CBM) to fly
+These are hardcode limitations. I can't do anything about them. Sorry.
 
 
 Future plans in order of priority:
 
 #1. Squash Bugs
 
-#1. Balance adjustments. There are still alot of odd quirks like Turbines running on pretty much any fuel and weight limits being a bit too restrictive on smaller choppers. I'm also considering reducing the radius of most Rotors for the purpose of making rooftop and street landings less dicey.
+#2. Balance adjustments. There are still alot of odd quirks like Turbines running on pretty much any fuel and weight limits being a bit too restrictive on smaller choppers. I'm also considering reducing the radius of most Rotors for the purpose of making rooftop and street landings less dicey.
 
 #3. Write up a FAQ that goes into detail on all Helicopter mechanics. Little is explained ingame.
 
