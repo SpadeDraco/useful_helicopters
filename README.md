@@ -3,15 +3,20 @@ A Cataclysm DDA mod that rebalances helicopters to make them more practical. Has
 
 Currently does the following things:
 
--Reduces fuel cost of turbine engines. This allows most helicopters to operate for 4-6 hours instead of the default 20 minutes.
+-Reduces fuel cost of turbine engines. This allows most default helicopters to operate for 4-6 hours on a full tank of gas. Instead of the pathetic 20 minutes they do in vanilla. If 4-6 hours doesn't sound like alot consider that most default Helos can easily cruise at 200 mph and bypass all obstacles. Trust me it isn't that limiting.
 
--Adds the Airframe and Powerplant Mechanic trait to all pilot professions. This allows all pilots to repair and modify helicopters freely.
+-Adds the Airframe and Powerplant Mechanic trait to all pilot professions. This allows all pilots to repair and modify helicopters so long as skill level permits.
 
--Adds a bionic that gives both the "Helicopter Pilot" and "A&P Mechanic" proficiencies. Bionic is called "Pilot Package CBM" and has an average chance to show up.
+-Adds a bionic that gives both the "Helicopter Pilot" and "A&P Mechanic" proficiencies. Bionic is called "Pilot Package CBM" and has an average chance to show up most places you can find bionics.
 
--Makes Rotors repairable and salvageable. Yes this means you can put them on your Secuirty Van. They have weight limits though so they probably won't be able to lift it.
+-Makes Rotors repairable and removable. Yes this means you can put them on your Secuirty Van. They have weight limits though so they probably won't be able to lift it without a turbine engine.
 
--Makes the "Helicopter Pilot" and "Airframe and Powerplant Mechanic" proficiencies learnable. (Unfinished. No recipes teach them yet.)
+-Makes the "Helicopter Pilot" and "Airframe and Powerplant Mechanic" proficiencies learnable via crafting. (Unfinished. No recipes teach them yet.)
+
+Limitations:
+-messing with rotors before you acquire the "A&P Mechanic" trait will still result in a permanent loss of airworthiness. After the proficiency is aqcuired you can slap rotors on literally anything and so long as the engine is strong enough it'll fly.
+-you still need the pilot trait (via profession or the included CBM) to fly
+-These are hardcode limitations. I can't do anything about them. Sorry.
 
 
 Future plans in order of priority:
