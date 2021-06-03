@@ -1,25 +1,22 @@
 # useful_helicopters
-A Cataclysm DDA mod that rebalances helicopters to make them more practical.
+A Cataclysm DDA mod that rebalances helicopters to make them more practical. Has recently undergone a complete overhaul to make it compatible with 0.F and address issues with the initial (extremely hacky) release.
 
-Welcome to my helicopter mod! A few things you need to know:
+Currently does the following things:
+-Reduces fuel cost of turbine engines. This allows most helicopters to operate for 4-6 hours instead of the default 20 minutes.
 
-Rotors are not craftable. You'll need to salveage them from crashed\working helicopters still.
+-Adds the Airframe and Powerplant Mechanic trait to all pilot professions. This allows all pilots to repair and modify helicopters freely.
 
-Vehicle weight determines the number\size of engines required for liftoff.
+-Makes Rotors repairable and salvageable. Yes this means you can put them on your Secuirty Van. They have weight limits though so they probably won't be able to lift it.
 
-Turbine engines currently accept nearly every type of fuel. This is how they are configured in vanilla and I haven't gotten around to changing it yet.
-I will likely narrow the fuel types down in the future.
+-Makes the "Helicopter Pilot" and "Airframe and Powerplant Mechanic" proficiencies learnable. (Unfinished. No recipes teach them yet.)
 
-Rotors have a set diameter and will break if you allow a protruding object (any proper structure) within that diameter.
 
-This diameter is:
+Future plans in order of priority:
 
-15 tiles for Heavy Duty Military Rotors
+#1. Add a decently common bionic that gives the "Helicopter Pilot" and "A&P Mechanic" proficiencies.
 
-8 for civilian rotors
+#2. Write up a FAQ that goes into detail on all Helicopter mechanics. Little is explained ingame.
 
-16 for blackhawk
+#3. Make Rotors craftable and capable of training the "A&P Mechanic" proficiency.
 
-11 for osprey
-
-E.G for the Heavy Duty Military Rotor the rotors will stick out 7 tiles in each direction from the tile the rotor is installed on.
+#4. Sensical way to train the piloting proficiency. (long term goal, hardcode doesn't currently support this)
