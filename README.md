@@ -1,7 +1,7 @@
 # useful_helicopters
-A Cataclysm DDA mod that rebalances helicopters to make them more practical. Has recently undergone a complete overhaul to make it compatible with 0.F and address issues with the initial (extremely hacky) release. The goal of this mod is to make helicopters actually factor into gameplay in an authentic and fun way. This is not a "realism" mod, but it is also not designed to (intentionally) enable giant flying bases. Note: NOT compatible with Bright Nights. NOT compatible with 0.E Stable. Designed for the upcoming 0.F stable release and working with the current 0.F experimental.
+A Cataclysm DDA mod that rebalances helicopters to make them more practical. Has recently undergone a complete overhaul to make it compatible with 0.F and address issues with the initial (extremely hacky) release. The goal of this mod is to make helicopters actually factor into gameplay in an authentic and fun way. This is not a "realism" mod, but it is also not designed to (intentionally) enable giant flying bases. Currently supports 0.F stable and 0.G Experimental.
 
-Stable Version Currently does the following things:
+Stable Version does the following things:
 
 -Reduces fuel cost of turbine engines. This allows most default helicopters to operate for 4-6 hours on a full tank of gas. Instead of the pathetic 20 minutes they do in vanilla. If 4-6 hours doesn't sound like alot consider that most default Helos can easily cruise at 200 mph and bypass all obstacles. Trust me it isn't that limiting.
 
