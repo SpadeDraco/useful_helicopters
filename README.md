@@ -23,8 +23,10 @@ Experimental Version:
 
 In 0.G Experimental many of the issues this mod was created to address have been (at least partially) solved. Currently the experimental version of this mod:
 
--Adds "Airframe and Powerplant Mechanic" as a selectable 2-point hobby at character creation. 
+-Adds "Airframe and Powerplant Mechanic" as a selectable 2-point hobby at character creation.
+
 and
+
 -Makes rotors removable and repairable by the player.
 
 Future versions will make tweaks to Turbine fuel consumption, which are much better by default in 0.G Experimental but still not quite right, and re-add the "Pilot Package" CBM once the Exodii faction that now sources CBMs is slightly more fleshed out.
